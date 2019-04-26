@@ -11,5 +11,15 @@
   "dependencies": {
     "inquirer": "^6.2.2",
     "mysql": "^2.16.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belindanovoa/mySQ-node.JS.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/belindanovoa/mySQ-node.JS/issues"
+  },
+  "homepage": "https://github.com/belindanovoa/mySQ-node.JS#readme"
 }
